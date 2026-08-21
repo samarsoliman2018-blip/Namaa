@@ -1,0 +1,7 @@
+ProjectID,ProjectName,Category,ActualCost,ActualDuration,BeneficiariesReached,SuccessRate,LessonsLearned,EconomicScore,SocialScore,SustainabilityScore,InnovationScore,FinalIndex,Status,CompletionDate
+1,School Renovation,Education,95000,11,150,0.85,Community engagement was crucial for success,85,90,75,80,83.5,Completed,6/15/2025
+2,Farm Irrigation System,Agriculture,48000,13,80,0.92,Seasonal timing and local knowledge are key,70,85,80,75,77.5,Completed,8/20/2025
+3,Community Health Clinic,Healthcare,120000,14,300,0.78,Need more equipment and trained staff,75,80,85,70,78.5,Completed,10/10/2025
+4,Women's Vocational Training,Education,60000,10,200,0.95,Partnerships with local NGOs boosted success,90,95,85,85,89.75,Completed,12/1/2025
+5,Solar Power Initiative,Technology,150000,16,500,0.88,Maintenance planning is critical for sustainability,80,75,90,95,82.5,Completed,2/28/2026
+6,Sarah's Garden,Agriculture,30000,12,50,0.85,Documentation step should have started earlier,99,89,100,90,95.35,Completed,7/30/2026

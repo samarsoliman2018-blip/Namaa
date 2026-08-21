@@ -1,0 +1,3 @@
+ApplicationID,BeneficiaryID,ProjectID,ApplicationDate,RequestedAmount,Status,BusinessPlanFile,FinancialStatementsFile,SupportingDocumentsFile
+1,3,1,2026-07-30T10:00:00,50000,APPROVED,,,
+6,4,6,2026-07-30T11:00:00,30000,COMPLETED,,,

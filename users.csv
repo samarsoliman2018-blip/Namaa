@@ -1,0 +1,9 @@
+UserID,FullName,Email,Username,Password,PhoneNumber,UserType,Education,Experience,TargetGroup,Specialization
+1,System Administrator,admin@namaa.com,admin,1234,30000000,Administrator,,,,
+2,Ahmed Ali,ahmed@gmail.com,waqif,1234,31111111,Waqif,,,,
+3,Mohammed Hassan,moh@gmail.com,beneficiary,1234,32222222,Beneficiary,Bachelor,4,Farmers,
+4,Sarah Ahmed,sarah@gmail.com,sarah,1234,34444444,Beneficiary,Master,6,Women,
+5,Khalid Omar,khalid@gmail.com,khalid,1234,35555555,Beneficiary,PhD,12,Entrepreneurs,
+6,Fatima Al-Hassan,fatima@gmail.com,fatima,1234,36666666,Beneficiary,Bachelor,3,Youth,
+999,Guest User,guest@namaa.com,guest,guest,00000000,User
+7,Committee Member,committee@namaa.com,committee,1234,77777777,CommitteeMember,,,,

@@ -1,0 +1,2 @@
+LoanID,ApplicationID,WaqfID,LoanAmount,IssueDate,DueDate,Status
+1,1,1,50000,7/30/2026,7/30/2027,Active
