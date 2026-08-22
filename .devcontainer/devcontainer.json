@@ -1,0 +1,37 @@
+{
+  "name": "Namaa Smart Waqf Platform",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "17",
+      "jdkDistro": "open"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-test",
+        "redhat.java",
+        "vscjava.vscode-maven"
+      ],
+      "settings": {
+        "java.configuration.updateBuildConfiguration": "automatic",
+        "java.debug.settings.hotCodeReplace": "auto",
+        "java.compile.nullAnalysis.mode": "automatic",
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  },
+  "postCreateCommand": "echo '✅ Namaa Platform ready! Run the application using: java -cp bin Main.Main'",
+  "forwardPorts": [8080],
+  "portsAttributes": {
+    "8080": {
+      "label": "Application",
+      "onAutoForward": "notify"
+    }
+  },
+  "remoteUser": "vscode",
+  "workspaceFolder": "/workspaces/Namaa"
+}
